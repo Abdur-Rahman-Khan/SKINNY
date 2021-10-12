@@ -1,0 +1,2 @@
+# SKINNY
+A lightweight cryptosystem
